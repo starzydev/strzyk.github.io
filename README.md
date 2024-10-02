@@ -3,4 +3,5 @@
 
 
 ## Features
-**Easy To Use**  **Always Updated**
+
+**Easy To Use** || **Always Updated**
