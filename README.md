@@ -1,7 +1,8 @@
-# STRZYK
 ## The Unblocked Haven.
 
-
-## Features
+##           Features
 
 **Easy To Use** || **Always Updated**
+
+
+## GAMES
