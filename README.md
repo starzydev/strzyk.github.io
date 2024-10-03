@@ -1,2 +1,2 @@
 # STRZYK
-### Unblocked, made easy.
+# Unblocked, made easy.
